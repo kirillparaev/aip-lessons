@@ -1,0 +1,2 @@
+Square of your number: 25
+Cube of your number: 125
